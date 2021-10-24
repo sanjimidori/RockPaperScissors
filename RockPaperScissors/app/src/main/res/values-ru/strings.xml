@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Камень-Бумага-Ножницы</string>
+    <string name="rock">Камень</string>
+    <string name="paper">Бумага</string>
+    <string name="scissors">Ножницы</string>
+    <string name="win">ПОБЕДА</string>
+    <string name="lose">ПРОИГРЫШ</string>
+    <string name="draw">НИЧЬЯ</string>
+    <string name="newgame">Новая Игра</string>
+    <string name="botChoose">Выбор Бота</string>
+    <string name="yourChoose">Ваш Выбор</string>
+</resources>
